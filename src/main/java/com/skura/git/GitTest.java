@@ -7,5 +7,6 @@ public class GitTest {
         //sleep 1min..
         System.out.println("2222");
         System.out.println("3333");
+        System.out.println("push again");
     }
 }
