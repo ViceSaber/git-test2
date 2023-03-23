@@ -10,6 +10,10 @@ public class GitTest {
         //
         System.out.println("push again");
         System.out.println("push again2222");
-        
+
+        /**
+         * 开启新世界线
+         */
+        System.out.println("hello world");
     }
 }
