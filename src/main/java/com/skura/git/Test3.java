@@ -6,6 +6,6 @@ package com.skura.git;
  */
 public class Test3 {
     public static void main(String[] args) {
-        System.out.println("skura");
+        //123
     }
 }
